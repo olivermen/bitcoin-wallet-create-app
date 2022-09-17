@@ -1,0 +1,32 @@
+{
+  "name": "bitcoin-wallet-create-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacob0123456/bitcoin-wallet-create-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jacob0123456/bitcoin-wallet-create-app/issues"
+  },
+  "homepage": "https://github.com/jacob0123456/bitcoin-wallet-create-app#readme",
+  "dependencies": {
+    "bip32": "^3.0.1",
+    "bip39": "^3.0.4",
+    "bitcoinjs-lib": "^6.0.2",
+    "ecpair": "^2.0.1",
+    "ecurve": "^1.0.6",
+    "simple-bitcoin-wallet": "^0.0.9",
+    "tiny-secp256k1": "^2.2.1",
+    "triplesec": "^4.0.3",
+    "window": "^4.2.7",
+    "windows": "^0.1.2"
+  }
+}
